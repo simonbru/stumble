@@ -21,7 +21,10 @@
     "npm": ">=3.0.0"
   },
   "dependencies": {
+    "bluebird": "^3.5.1",
+    "google-tts-api": "^0.0.2",
     "mumble": "^0.3.9",
+    "request-promise": "^4.2.2",
     "stumble-core": "^1.1.0"
   },
   "optionalDependencies": {
